@@ -1,0 +1,33 @@
+body {
+  background-color: indianred;
+  text-align: center;
+  margin-top: 20%;
+}
+button {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border: 5px solid rebeccapurple;
+  margin: 0;
+  border-radius: 20px;
+  background-color: darkcyan;
+}
+output {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+#decrease {
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+}
+#increase {
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+}
+#result {
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+}
